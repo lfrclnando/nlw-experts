@@ -9,27 +9,18 @@ HTML, CSS and JS Rocketseat Challenge.
  - GitHub
 
  
-# HTML
-
+### HTML
 HyperText Mardkup Language
 
-Tag
-Atributos
-
-
-# CSS
+### CSS
 Cascading Style Sheet
 
+### JS
+JavaScript
 ```js
-//
-const mensagem = "Bom te ver aqui! "
-alert(mensagem + (10 * 100) + " abraços") 
-// 
+// const mensagem = "Bom te ver aqui! "
+// alert(mensagem + (10 * 100) + " abraços") 
 ```
 
-## Array ou Vetores
-[]
-
-## Objetos
-{}
-
+### GitHub
+Para armazenar e administrar o código. 
